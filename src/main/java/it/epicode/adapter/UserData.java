@@ -1,4 +1,4 @@
-package it.epicode;
+package it.epicode.adapter;
 
 
 public class UserData {
